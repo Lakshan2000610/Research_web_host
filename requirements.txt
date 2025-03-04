@@ -1,0 +1,4 @@
+Flask==2.3.2
+Flask-SocketIO==5.3.4
+opencv-python==4.7.0.72
+sqlite3==2.6.0
